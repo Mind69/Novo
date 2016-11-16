@@ -15,6 +15,22 @@ git init
 ls -a (lista)
 
 git status (verifica o que foi alterado)
+git add <file>
+git add . (adiciona todos nesse directorio)
+git add *.html (adiciona so a extenção html)
 
+git commit (para fazer commit)
+ESC
+wq
 
+git commit --amend (para corrigir)
 
+git rm -r ou -f (para remover)
+git rm --cached
+
+git log (lista os logs)
+git log --pretty=online
+
+git diff (verifica se algo esta diferente)
+ls -ll (lista)
+vim/vi (para alterar ficheiro)
