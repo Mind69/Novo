@@ -1,0 +1,20 @@
+Download:
+https://git-scm.com/download/win
+or
+https://desktop.github.com/
+
+---------------------------------------------------------
+
+git config --global user.name "Your Name"
+git config --global user.email "Your Email"
+
+git config --list (para listar definições)
+git help (todos os comandos)
+git init
+
+ls -a (lista)
+
+git status (verifica o que foi alterado)
+
+
+
